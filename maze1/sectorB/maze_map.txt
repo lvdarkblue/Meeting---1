@@ -1,0 +1,12 @@
+Maze Map — Sector B
+
+Several paths lead to dead ends.
+Only careful navigation allows escape.
+
+Hidden instruction found along the walls:
+
+The middle fragment of the escape code is **MAN**.
+
+Never store the full code in one place.
+
+Map updated successfully.
