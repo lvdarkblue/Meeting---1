@@ -1,0 +1,3 @@
+Power pellet systems nominal.
+No escape codes detected.
+This is just a routine status report.
