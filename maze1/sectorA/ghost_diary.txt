@@ -1,0 +1,13 @@
+Ghost Diary — Sector A
+
+Blinky was here earlier, pacing the maze endlessly.
+The walls seem tighter every time Pac-Man passes through.
+
+Strange note scribbled on the corner of the page:
+
+The escape sequence starts with **PAC**, but this alone
+won’t open the maze.
+
+More fragments must exist somewhere else.
+
+End of diary entry.
