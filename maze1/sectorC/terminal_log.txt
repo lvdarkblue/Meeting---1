@@ -1,0 +1,3 @@
+Terminal check complete.
+No unusual activity.
+This file does not contain any escape fragments.
