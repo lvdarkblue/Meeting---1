@@ -1,0 +1,16 @@
+MISSION 1: MAZE ESCAPE
+
+Pac-Man is trapped inside a digital maze.
+
+Your objective:
+- Explore all folders and subfolders
+- Open and read the files carefully
+- Some files contain useful information, others are decoys
+- Extract the escape code fragments hidden inside the text
+- Combine all fragments into ONE escape code
+
+When you believe you have the correct code:
+
+Create a file named escape_code.txt and place the final code inside it.
+
+Create escape_code.txt in the main directory, not inside any folder such as maze1/ or INSTRUCTIONS.txt
