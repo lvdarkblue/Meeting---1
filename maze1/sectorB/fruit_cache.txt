@@ -1,0 +1,7 @@
+Fruit Cache Inventory
+
+Cherry: collected
+Strawberry: missing
+Orange: collected
+
+No security information stored here.
